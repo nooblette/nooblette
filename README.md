@@ -27,9 +27,10 @@
 		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 		<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 		<br/>
-	<br/> Here My Blog ➡️ https://nooblette.tistory.com/
-	![image](file:///Users/ominhyeog/Desktop/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-07-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.31.49.png)
 	</h2>
+	<br/> ➡️ This is My Blog <br/> 
+		https://nooblette.tistory.com/
+		![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbbc2jC%2Fbtq97w2UYMe%2FOLkd8icK6PqKWptZfSkygK%2Fimg.png)
 	
 	<div align=center> <h1> 🙂 </h1> </div>
 </h1> 	
