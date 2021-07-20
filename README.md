@@ -1,7 +1,6 @@
 <!--- ![image](https://m.mademoment.com/web/product/big/20200615/8148d604da1489c0cc2ac8b5375e5702.jpg) --->
 <h1> <div align=center> 👋 Hi, I’m Oh Min Hyeok 🧑‍💻 </div>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
-	<div align=center>
 		<h2> ⚒ I've used this technique before ... <br/>
 		<br/>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
@@ -29,11 +28,9 @@
 		<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 		<br/>
 	</h2>
-	</div>
 	<br/> ➡️ This is My Blog <br/> 
 	https://nooblette.tistory.com/
 	<br/>
-	![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbbc2jC%2Fbtq97w2UYMe%2FOLkd8icK6PqKWptZfSkygK%2Fimg.png)
 	<div align=center> <h1> 🙂 </h1> </div>
 </h1> 	
 
