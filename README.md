@@ -2,10 +2,8 @@
 <h2> 🌱 I’m currently learning ... <br/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=critical"/>
-	
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=blue"/>
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=brightgreen"/>
-	
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=lightgrey"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=blueviolet"/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
