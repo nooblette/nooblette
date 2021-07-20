@@ -1,5 +1,5 @@
 <!--- ![image](https://m.mademoment.com/web/product/big/20200615/8148d604da1489c0cc2ac8b5375e5702.jpg) --->
-<h1> <div align=center> 👋 Hi, I’m Oh Min Hyeok 🧑‍💻 </div>
+<h1> <div align=center> 👋 Hi, I’m Oh Min Hyeok 🧑‍💻 
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 		<h2> ⚒ I've used this technique before ... <br/>
 		<br/>
@@ -28,6 +28,7 @@
 		<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 		<br/>
 	</h2>
+	</div>
 	<br/> ➡️ This is My Blog <br/> 
 	https://nooblette.tistory.com/
 	<br/>
