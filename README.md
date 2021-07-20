@@ -2,7 +2,6 @@
 <h1> <div align=center> 👋 Hi, I’m @nooblette 🧑‍💻 </div>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 	<h2> <div align=center> ⚒ I've used this technique before ... </div> <br/>
-		<br/>
 		<div align=center> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=critical"/>
 		<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -21,9 +20,7 @@
 		<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 		</div>
-		<br/>
 		<br/> <div align=center> 👀 I’m interested in ... </div> <br/>
-		<br/>
 		<div align=center> 
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/>
