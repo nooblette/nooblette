@@ -1,4 +1,4 @@
-[image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwbcbnews.com%2Fblog%2Fgirls-code-free-workshop-community-college%2F&psig=AOvVaw3-62erQ600hQNMugiOhuhA&ust=1626857556348000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjMqemi8fECFQAAAAAdAAAAABAO)
+[image](https://static.scientificamerican.com/sciam/cache/file/1FCF0242-35AD-4E97-9558FBD4278568CD_source.jpg)
 <h1> <div align=center> 👋 Hi, I’m <span style="color:red"> <em> <strong> @Nooblette </strong> </em> </span> 🧑‍💻 <br> gald to meet you 🙂</div>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 	<h2> <div align=center> ⚒ I've used this technique before ... </div>
