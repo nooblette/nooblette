@@ -1,5 +1,5 @@
 <div align=center> <h1> 👋 Hi, I’m Oh Min Hyeok </h1> </div>
-<h2> > I’m currently learning ... </br>
+<h2> >I’m currently learning ... </br>
 	asadf
 	</h2>
 		
