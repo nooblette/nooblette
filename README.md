@@ -1,4 +1,4 @@
-<div align=center> <h1> 👋 Hi, I’m Oh Min Hyeok </h1> </div>
+<h1> <div align=center> 👋 Hi, I’m Oh Min Hyeok 🧑‍💻 </div>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 <h2> ⚒ I've used this technique before ... <br/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
@@ -11,8 +11,8 @@
 	<img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-	</h2>
-		
+</h2>
+</h1> 	
 
 
 👀 I’m interested in
