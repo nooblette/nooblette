@@ -22,7 +22,7 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 		</div>
 		<br/>
-	<br/> 👀 I’m interested in ... <br/>
+		<br/> <div align=center> 👀 I’m interested in ... </div> <br/>
 		<br/>
 		<div align=center> 
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
