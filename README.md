@@ -1,8 +1,6 @@
-<h1> 👋 Hi, I’m Oh Min Hyeok
-	<h2> 🌱 I’m currently learning ... 
+  <div align=center> <h1> 👋 Hi, I’m Oh Min Hyeok </h1> </div>
+## 🌱 I’m currently learning ... 
 		
-	</h2>
-</h1>
 
 
 👀 I’m interested in
