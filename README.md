@@ -1,6 +1,6 @@
 <div align=center> <h1> 👋 Hi, I’m Oh Min Hyeok </h1> </div>
 <h2> 🌱 I’m currently learning ... <br/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Pythond&logoColor=blue"/>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue"/>
 	</h2>
 		
 
