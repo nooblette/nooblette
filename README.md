@@ -1,8 +1,9 @@
 <h1> 👋 Hi, I’m Oh Min Hyeok </h1>
 
-- 👀 I’m interested in
+<h2> 🌱 I’m currently learning ... </h2>
+👀 I’m interested in
 - <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-- 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
