@@ -1,4 +1,4 @@
-<h1> <h1><div align=center> 👋 Hi, I’m <span style="color:red"> <em> <strong> @Nooblette </strong> </em> </span> 🧑‍💻 <br> gald to meet you 🙂</div> </h1>
+<h1> <h1><div align=center> 👋 Hi, I’m <span style="color:red"> <em> <strong> @Nooblette </strong> </em> </span> 🧑‍💻 <br> glad to meet you 🙂</div> </h1>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 	<h2> <div align=center> ⚒ I've used this technique before ... </div>
 		<div align=center> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
