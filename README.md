@@ -1,4 +1,4 @@
-![image](https://m.mademoment.com/web/product/big/20200615/8148d604da1489c0cc2ac8b5375e5702.jpg)
+<!--- ![image](https://m.mademoment.com/web/product/big/20200615/8148d604da1489c0cc2ac8b5375e5702.jpg) --->
 <h1> <div align=center> 👋 Hi, I’m Oh Min Hyeok 🧑‍💻 </div>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 	<h2> ⚒ I've used this technique before ... <br/>
@@ -27,23 +27,20 @@
 		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 		<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 		<br/>
+	<br/> Here My Blog ➡️ https://nooblette.tistory.com/
+	![image](file:///Users/ominhyeog/Desktop/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-07-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.31.49.png)
 	</h2>
+	
 	<div align=center> <h1> 🙂 </h1> </div>
 </h1> 	
 
 
 
-
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 <!---
 nooblette/nooblette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
