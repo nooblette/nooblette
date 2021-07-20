@@ -32,8 +32,9 @@
 		</div>
 	</h2>
 </h1>
-📫 This is My Blog ➡️ https://nooblette.tistory.com/
-<div align=center> <h1> 🙂 </h1> </div>
+📫 Here My Blog ➡️ https://nooblette.tistory.com/
+📩 E-mail ➡️ min9hyuk@gmail.com
+<div align=center> <h1> Welcome! 🙂 </h1> </div>
 
 
 <!---
