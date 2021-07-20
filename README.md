@@ -33,6 +33,7 @@
 	</h2>
 </h1>
 📫 Here My Blog ➡️ https://nooblette.tistory.com/
+<br>
 📩 E-mail ➡️ min9hyuk@gmail.com
 <div align=center> <h1> Welcome! 🙂 </h1> </div>
 
