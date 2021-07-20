@@ -32,7 +32,7 @@
 		</div>
 	</h2>
 </h1>
-<h3> 📫 This is My Blog ➡️ https://nooblette.tistory.com/ </h3>
+📫 This is My Blog ➡️ https://nooblette.tistory.com/
 <div align=center> <h1> 🙂 </h1> </div>
 
 
