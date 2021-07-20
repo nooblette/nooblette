@@ -1,5 +1,7 @@
-  <div align=center> <h1> 👋 Hi, I’m Oh Min Hyeok </h1> </div>
-# # 🌱 I’m currently learning ... 
+<div align=center> <h1> 👋 Hi, I’m Oh Min Hyeok </h1> </div>
+<h2>🌱 I’m currently learning ...
+	asadf
+	</h2>
 		
 
 
