@@ -1,5 +1,5 @@
 <!--- ![image](https://m.mademoment.com/web/product/big/20200615/8148d604da1489c0cc2ac8b5375e5702.jpg) --->
-<h1> <div align=center> 👋 Hi, I’m ***Nooblette*** 🧑‍💻 <br> gald to meet you 🙂</div>
+<h1> <div align=center> 👋 Hi, I’m <span style="color:blue">__Nooblette__</span> 🧑‍💻 <br> gald to meet you 🙂</div>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 	<h2> <div align=center> ⚒ I've used this technique before ... </div>
 		<div align=center> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
@@ -32,9 +32,9 @@
 		</div>
 	</h2>
 </h1>
-📫 Here My Blog ➡️ https://nooblette.tistory.com/
+📫 Here My Blog 👉🏻 https://nooblette.tistory.com/
 <br>
-📩 E-mail ➡️ min9hyuk@gmail.com
+📩 min9hyuk@gmail.com
 
 
 <!---
