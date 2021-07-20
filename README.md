@@ -18,6 +18,7 @@
 		<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 		</div>
+		<br\>
 		<div align=center> 👀 I’m interested in ... </div>
 		<div align=center> 
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -31,7 +32,7 @@
 		</div>
 	</h2>
 
-	<h3> 📫 This is My Blog ➡️ https://nooblette.tistory.com/ </h3>
+
 	<div align=center> <h1> 🙂 </h1> </div>
 </h1> 	
 
