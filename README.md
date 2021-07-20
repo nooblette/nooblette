@@ -1,15 +1,16 @@
 <div align=center> <h1> 👋 Hi, I’m Oh Min Hyeok </h1> </div>
-<h2> 🌱 I’m currently learning ... <br/>
+<!--- <h2> 🌱 I’m currently learning ... <br/> --->
+<h2> ⚒ I've used this technique before ... <br/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=critical"/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=blue"/>
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=green"/>
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=lightgrey"/>
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=C++&logoColor=white"/>
 	<br/>
-	<img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=Python&logoColor=black"/>
-	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=yellow"/>
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=yellow"/>
+	<img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 	</h2>
 		
 
