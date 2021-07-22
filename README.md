@@ -31,7 +31,7 @@
 		</div>
 	</h2>
 </h1>
-📫 Here My Blog 👉🏻 https://nooblette.tistory.com/
+📫 My Blog 👉🏻 https://nooblette.tistory.com/
 <br>
 📩 min9hyuk@gmail.com
 <br>
