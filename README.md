@@ -1,6 +1,6 @@
-<h1> <h1><div align=center> 👋 Hi, I’m <span style="color:red"> <em> <strong> @Nooblette </strong> </em> </span> 🧑‍💻 <br> glad to meet you 🙂</div> </h1>
+<h1> <h1><div align=center> 👋 Hi, I’m <span style="color:red"> <em> <strong> @Nooblette </strong> </em> </span>🤓 <br> I want to be Backend🧑‍💻 Developer <br> glad to meet you 🙂</div> </h1>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
-	<h2> <div align=center> ⚒ I've used this tech ... </div>
+	<h2> <div align=center> ⚒ I've used this tech ... </div><br>
 		<div align=center> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=critical"/>
 		<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -31,11 +31,12 @@
 		</div>
 	</h2>
 </h1>
+✏️ I study in Hongik University
+<br>
 📫 My Blog 👉🏻 https://nooblette.tistory.com/
 <br>
 📩 min9hyuk@gmail.com
 <br>
-📱010-XXXX-XXXX
 
 <div align=center>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnooblette&count_bg=%2352B208&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
