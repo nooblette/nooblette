@@ -2,20 +2,24 @@
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 	<h2> <div align=center> ⚒ I've used this tech ... </div><br>
 		<div align=center> 
+		Programming Language  
 		<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 		<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 		<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 		</div>
 		<div align=center>
+		Framework  
 		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=critical"/>
 		</div>
 		<div align=center> 
+		DataBase  
 		<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 		<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 		</div>
 		<div align=center> 
+		Envrionment  
 		<img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=Python&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
