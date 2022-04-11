@@ -1,4 +1,4 @@
-<h1> <h1><div align=center> 👋 Hi, I’m <span style="color:red"> <em> <strong> @Oh Min Hyeok </strong> </em> </span>🤓 <br> I want to be Backend👨‍💻 Developer <br> glad to meet you 🙂</div> </h1>
+<h1> <h1><div align=center> 👋 Hi, I’m <span style="color:red"> <em> <strong> @Oh Min Hyeok </strong> </em> </span>🤓 <br> I am Backend👨‍💻 Developer <br> glad to meet you 🙂</div> </h1>
 <!--- <h2> 🌱 I’m currently learning ... <br/> --->
 	<h2> <div align=center> ⚒ I've used this tech ... </div><br>
 		<div align=center> 
@@ -14,6 +14,7 @@
 		<div align=center> 
 		<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 		<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 		</div>
 		<div align=center> 
 		<img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=Python&logoColor=white"/>
