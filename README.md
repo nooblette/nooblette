@@ -36,7 +36,7 @@
 		<!--</div>-->
  		
 </h1>
-✏️ I have been working at SSG.COM since Feb 2011.
+✏️ I have been working at SSG.COM since Feb 2022.
 <br>
 📫 My Blog 👉🏻 https://nooblette.tistory.com/
 <br>
