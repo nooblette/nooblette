@@ -36,11 +36,9 @@
 		<!--<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>-->
 		<!--</div>-->
  		
-		
-		--->
 	</h2>
 </h1>
-✏️ I worked in <em>SSG.COM</em> since Feb 2022
+✏️ I have been working at SSG.COM since Feb 2011.
 <br>
 📫 My Blog 👉🏻 https://nooblette.tistory.com/
 <br>
