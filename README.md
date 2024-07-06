@@ -1,56 +1,9 @@
-<h1> <h1><div align=center> 👋 Hi, I’m <span style="color:red"> <em> <strong> @Oh Min Hyeok </strong> </em> </span>🤓 <br> I am Backend👨‍💻 Developer <br> glad to meet you 🙂</div> </h1>
-<!--- <h2> 🌱 I’m currently learning ... <br/> --->
-	<h2> <div align=center> ⚒ I've used this tech ... </div><br>
-		<div align=center> 
-		<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-		<!--<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>-->
-		<!--<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>-->
-		<!--<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>-->
-		</div>
-		<div align=center>
-		<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-		<!--<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=critical"/>-->
-		</div>
-		<div align=center> 
-		<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-		<!--<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>-->
-		<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-		</div>
-		<div align=center> 
-		<img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=Python&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-		</div>
-		<br>
-		<!--<div align=center> 👀 I’m interested in <em> Web Service </em> and ... </div>-->
-		<!--<div align=center> -->
-		<!--<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>-->
-		<!--<img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/>-->
-		<!--<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>-->
-		<!--<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>-->
-		<!--</div>-->
-		<!--<div align=center> -->
-		<!--<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>-->
-		<!--<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>-->
-		<!--</div>-->
- 		
-</h1>
-✏️ I have been working at SSG.COM since Feb 2022.
-<br>
-📫 My Blog 👉🏻 https://nooblette.tistory.com/
-<br>
-📩 contact me : min9hyuk@gmail.com
-<br>
-
-<div align=center>
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnooblette&count_bg=%2352B208&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-nooblette/nooblette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 안녕하세요!
+- 저는 **문제를 주도적으로 정의**하는 개발자입니다.
+- **꾸준히 학습하고 기록**하며, **공유**합니다.
+	- 꾸준한 학습 기록은 [git](https://github.com/nooblette)과 [개인  블로그](https://nooblette.tistory.com/)로 증명할 수 있습니다.
+- **팀이 함께 문제 상황을 인식**하고 해결방안을 도출할 때 더 나은 문제 해결이 가능하다고 생각합니다.
+- 내가 작성한 코드로 **회사와 회사가 속한 산업이 발전할 때 열정과 동기부여**가 생깁니다.
+- **이해하기 쉬운 코드**를 작성하며 **반복 발생하는 문제를 개선**하고자 합니다.
+- **효율적으로 업무를 진행**하고 **비즈니스 로직에 집중**할 수 있는 환경을 만들고자 합니다.
+- 더 나은 문제해결과 **함께 발전**하기 위해 **개발 기술을 공유**하고 **의견을 자신있게 나누는 과정** 자체를 즐거워합니다.
